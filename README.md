@@ -1,3 +1,3 @@
 # new
-first repos
-author aar
+first repos.
+author aar.
